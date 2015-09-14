@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [Sample7NaverMovie1:androidAysncHttpMulitPartModifyLibrary:unspecified] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\Sample7NaverMovie1\androidAysncHttpMulitPartModifyLibrary\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [Sample7NaverMovie1:androidUniversalImageLoaderLibrary:unspecified] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\Sample7NaverMovie1\androidUniversalImageLoaderLibrary\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [Sample7NaverMovie1:androidPullToRefreshLibrary:unspecified] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\Sample7NaverMovie1\androidPullToRefreshLibrary\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:11:5-67
+MERGED from [Sample7NaverMovie1:androidAysncHttpMulitPartModifyLibrary:unspecified] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\Sample7NaverMovie1\androidAysncHttpMulitPartModifyLibrary\unspecified\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:13:22-78
+application
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:15:5-34:19
+MERGED from [Sample7NaverMovie1:androidAysncHttpMulitPartModifyLibrary:unspecified] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\Sample7NaverMovie1\androidAysncHttpMulitPartModifyLibrary\unspecified\AndroidManifest.xml:13:5-20
+MERGED from [Sample7NaverMovie1:androidPullToRefreshLibrary:unspecified] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\Sample7NaverMovie1\androidPullToRefreshLibrary\unspecified\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:16:9-37
+activity#com.example.sample7navermovie.MainActivity
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.sample7navermovie.BrowserActivity
+ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:32:13-59
+	android:name
+		ADDED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:31:13-44
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Android\Library\android-education-project\Sample7NaverMovie1\sample7NaverMovie\src\main\AndroidManifest.xml:2:1-36:12 reason: com.loopj.android.http has a targetSdkVersion < 4
